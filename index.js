@@ -20,7 +20,7 @@ app.get("/", (req, res) => {
             {
               id: 3,
               name: "Abdul",
-              salary: 50000
+              salary: 80000
             },
         ]
     )
